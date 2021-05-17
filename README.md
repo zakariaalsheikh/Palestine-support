@@ -4,6 +4,6 @@
 
 
 <p align="center">
-  <img src="screen/a1.jpg" width="200" title="hover text">
-  <img src="screen/b2.jpg" width="200" alt="accessibility text">
+  <img src="a1.jpg" width="200" title="hover text">
+  <img src="b2.jpg" width="200" alt="accessibility text">
 </p>
